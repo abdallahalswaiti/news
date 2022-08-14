@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://abdallahalswaiti.github.io/sormat/fr/categories/</loc>
+    <loc>https://abdallahalswaiti.github.io/news/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abdallahalswaiti.github.io/sormat/categories/"
+                href="https://abdallahalswaiti.github.io/news/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://abdallahalswaiti.github.io/sormat/fr/categories/"
+                href="https://abdallahalswaiti.github.io/news/fr/categories/"
                 />
   </url><url>
-    <loc>https://abdallahalswaiti.github.io/sormat/fr/</loc>
+    <loc>https://abdallahalswaiti.github.io/news/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abdallahalswaiti.github.io/sormat/"
+                href="https://abdallahalswaiti.github.io/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://abdallahalswaiti.github.io/sormat/fr/"
+                href="https://abdallahalswaiti.github.io/news/fr/"
                 />
   </url><url>
-    <loc>https://abdallahalswaiti.github.io/sormat/fr/tags/</loc>
+    <loc>https://abdallahalswaiti.github.io/news/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://abdallahalswaiti.github.io/sormat/tags/"
+                href="https://abdallahalswaiti.github.io/news/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://abdallahalswaiti.github.io/sormat/fr/tags/"
+                href="https://abdallahalswaiti.github.io/news/fr/tags/"
                 />
   </url>
 </urlset>
